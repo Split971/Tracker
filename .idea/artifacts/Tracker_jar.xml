@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tracker:jar">
+    <output-path>$PROJECT_DIR$/../Tracker/out/artifacts/Tracker_jar</output-path>
+    <root id="archive" name="Tracker.jar">
+      <element id="module-output" name="Tracker" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
